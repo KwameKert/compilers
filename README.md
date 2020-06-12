@@ -1,6 +1,5 @@
  # A Front End for ILOC
- # Name: PRECIOUS AGBENYO
- # IndexNumber: 040118108
+
 
 **System Requirements:**
 
